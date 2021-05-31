@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap');
+
+
+.popUpWindownormal{
+    width: 60vw;
+    border-top: 5px dotted #333333;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 5%;
+    cursor: pointer;
+    max-height: 10000vh;
+    transition: max-height 2s;
+    transition-timing-function: ease-in-out;
+    overflow: hidden;
+    cursor:auto;
+
+
+}
+
+h4{
+    font-family: 'Inconsolata', monospace;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+.text-content{
+    font-family: 'Inconsolata', monospace;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.hidden-window{
+    max-height: 0vh;
+    overflow: hidden;    
+
+
+}

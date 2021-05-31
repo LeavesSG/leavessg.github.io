@@ -1,0 +1,43 @@
+[
+    {
+
+        "index": 0,
+        "title": "Interactive Implementation: Fitlody",
+        "content": 
+            "Problem statement: Motivation is one of the most limitation of people doing exercises. We want to combined “exercise” with “music creation”",
+        "images":
+            {"index":1,"name":"Fitlody-physical-build-2","src":"fitlody-physbd2.jpg"}
+            
+        
+    },
+
+    {
+        "index": 1,
+        "title": "Web-based Game: Infinite Travel",
+        "content": 
+            "Problem statement: We have got APIs from Picture Queensland Database containing old pictures of Queensland, how to design an interactive system to introduce these buried treasure to our audience?",
+        "images":
+            {"index":1,"name":"infinite-travel-game","src":"infitrav-game.png"}
+        
+    },
+
+    {
+        "index": 2,
+        "title": "Mobile-App Design: Pillow",
+        "content": 
+            "Problem statement: Study shows that 70% of the people couldn’t get enough sleep, this situation is even severer among the college students. Our team will study the reasons and factors that cause this phenomenon, and come up with some design to help improve this situation.",
+        "images":
+            {"index":1,"name":"pillow-prototype","src":"pillow-prototype.png"}
+    },
+    
+
+    {
+        "index": 3,
+        "title": "Some Graphic Design Works",
+        "content": "Just the Facts/Surburb gone vintage",
+        "images":
+            {"index":3,"name":"pillow-tam","src":"graphicdesign-suburb.png"}
+        
+    }
+
+]

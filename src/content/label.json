@@ -1,0 +1,43 @@
+[
+    {
+        "index": 0,
+        "content": "Tianyi's Website",
+        "position": "Navbar",
+        "type": "navtitle",
+        "url" : "/"
+    },
+
+    {
+        "index": 1,
+        "content": "About Me",
+        "position": "Navbar",
+        "type": "navitem",
+        "url" : "/about"
+        
+
+    },
+
+    {
+        "index": 2,
+        "content": "Thoughts",
+        "position": "Navbar",
+        "type": "navitem",
+        "url" : "/thoughts"
+    },
+
+    {
+        "index": 3,
+        "content": "UX Portfolio",
+        "position": "Navbar",
+        "type": "navitem",
+        "url" : "/portfolios"
+    },
+
+    {
+        "index": 4,
+        "content": "Home",
+        "position": "Navbar",
+        "type": "navitem",
+        "url" : "/"
+    }
+]

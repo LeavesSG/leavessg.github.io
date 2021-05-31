@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #79b2cb;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="组_24" data-name="组 24" transform="translate(1850 -345)">
+    <circle id="椭圆_1" data-name="椭圆 1" class="cls-1" cx="38.5" cy="38.5" r="38.5" transform="translate(-1773 345) rotate(90)"/>
+    <g id="组_5" data-name="组 5" transform="translate(-1025 157) rotate(90)">
+      <line id="直线_6" data-name="直线 6" class="cls-2" x2="18.308" transform="translate(205.5 766.352)"/>
+      <line id="直线_7" data-name="直线 7" class="cls-2" y1="18.308" transform="translate(207.413 764.438)"/>
+      <line id="直线_8" data-name="直线 8" class="cls-2" x2="18.308" transform="translate(248.218 807.544) rotate(180)"/>
+      <line id="直线_9" data-name="直线 9" class="cls-2" y1="18.308" transform="translate(247.262 809.458) rotate(180)"/>
+      <line id="直线_10" data-name="直线 10" class="cls-2" x2="16.782" y2="16.782" transform="translate(207.413 766.352)"/>
+      <line id="直线_11" data-name="直线 11" class="cls-2" x1="18.308" y1="18.308" transform="translate(228.954 789.237)"/>
+    </g>
+  </g>
+</svg>
