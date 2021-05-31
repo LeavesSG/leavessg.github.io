@@ -4,7 +4,7 @@ import '../style/Card.scss';
 
 export function Card(props){
     
-    return <div className="card">
+    return <div id={props.id} className="card">
         {props.content && props.content}
     </div>
 }
