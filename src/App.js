@@ -28,7 +28,7 @@ export default function App() {
           <Route path="/about">
             <About />
           </Route>
-          <Route path="/topics">
+          <Route path="/demos">
             <Topics />
           </Route>
           <Route path="/">

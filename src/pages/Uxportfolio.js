@@ -10,6 +10,7 @@ export function Uxportfolio(){
         return <div className={"ux-card"}>
             <img className="card-img" src={card.images.src} alt={card.images.name} width="400px" height="300px"/>
             <div><h3>{card.title}</h3><p>{card.content}</p></div>
+            <div></div>
         </div>
     })
 
