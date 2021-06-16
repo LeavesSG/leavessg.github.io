@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c839205.chunk.css",
-    "main.js": "/static/js/main.07cb438e.chunk.js",
-    "main.js.map": "/static/js/main.07cb438e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4805ab9b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4805ab9b.js.map",
-    "static/js/2.4734ee30.chunk.js": "/static/js/2.4734ee30.chunk.js",
-    "static/js/2.4734ee30.chunk.js.map": "/static/js/2.4734ee30.chunk.js.map",
-    "static/js/3.c8da93c8.chunk.js": "/static/js/3.c8da93c8.chunk.js",
-    "static/js/3.c8da93c8.chunk.js.map": "/static/js/3.c8da93c8.chunk.js.map",
+    "main.css": "/static/css/main.e6a2cc82.chunk.css",
+    "main.js": "/static/js/main.c6df9944.chunk.js",
+    "main.js.map": "/static/js/main.c6df9944.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.80baafe5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.80baafe5.js.map",
+    "static/js/2.b675b80f.chunk.js": "/static/js/2.b675b80f.chunk.js",
+    "static/js/2.b675b80f.chunk.js.map": "/static/js/2.b675b80f.chunk.js.map",
+    "static/js/3.96b21efa.chunk.js": "/static/js/3.96b21efa.chunk.js",
+    "static/js/3.96b21efa.chunk.js.map": "/static/js/3.96b21efa.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9c839205.chunk.css.map": "/static/css/main.9c839205.chunk.css.map",
-    "static/js/2.4734ee30.chunk.js.LICENSE.txt": "/static/js/2.4734ee30.chunk.js.LICENSE.txt",
+    "static/css/main.e6a2cc82.chunk.css.map": "/static/css/main.e6a2cc82.chunk.css.map",
+    "static/js/2.b675b80f.chunk.js.LICENSE.txt": "/static/js/2.b675b80f.chunk.js.LICENSE.txt",
     "static/media/adagioin-amajor.mp3": "/static/media/adagioin-amajor.e29bb044.mp3",
     "static/media/earth.svg": "/static/media/earth.813ae249.svg",
     "static/media/earth_v2.svg": "/static/media/earth_v2.496cc46c.svg",
@@ -22,6 +22,7 @@
     "static/media/fitlody-poster.png": "/static/media/fitlody-poster.40ec1385.png",
     "static/media/fitlody-prototype.png": "/static/media/fitlody-prototype.261f54de.png",
     "static/media/flappy-bird.jpg": "/static/media/flappy-bird.26cdf3e4.jpg",
+    "static/media/gameoflife.png": "/static/media/gameoflife.714d9b67.png",
     "static/media/graphicdesign-jtf1.png": "/static/media/graphicdesign-jtf1.dbd393e0.png",
     "static/media/graphicdesign-jtf2.png": "/static/media/graphicdesign-jtf2.a0ea1810.png",
     "static/media/graphicdesign-suburb.png": "/static/media/graphicdesign-suburb.aefbcdc5.png",
@@ -47,9 +48,9 @@
     "static/media/xmasrhymein-emajor.mp3": "/static/media/xmasrhymein-emajor.12344ada.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.4805ab9b.js",
-    "static/js/2.4734ee30.chunk.js",
-    "static/css/main.9c839205.chunk.css",
-    "static/js/main.07cb438e.chunk.js"
+    "static/js/runtime-main.80baafe5.js",
+    "static/js/2.b675b80f.chunk.js",
+    "static/css/main.e6a2cc82.chunk.css",
+    "static/js/main.c6df9944.chunk.js"
   ]
 }
